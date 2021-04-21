@@ -1,3 +1,3 @@
 # REST API CRUD
-a rest api crud with firebase functions, Nodejs, and Javascript.
+Una implementación de API REST con ExpressJS, Firebase, NodeJS y JavaScript.
 
